@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Pancake",
+    "title": "AMM DEX",
+    "logo": "https://cryptologos.cc/logos/biswap-bsw-logo.png",
+    "category": ["DEFI"],
+    "network": [56],
+    "link": "https://pancakeswap.finance/",
+    "isHot": true
+  },
+  {
+    "name": "SushiSwap",
+    "title": "AMM DEX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png",
+    "category": ["DEFI"],
+    "network": [1],
+    "link": "https://app.sushi.com/swap",
+    "isHot": true
+  },
+  {
+    "name": "Uniswap",
+    "title": "AMM DEX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
+    "category": ["DEFI"],
+    "network": [1, 10, 42161],
+    "link": "https://app.uniswap.org/",
+    "isHot": true
+  },
+  {
+    "name": "Biswap",
+    "title": "DEX on BSC",
+    "logo": "https://cryptologos.cc/logos/biswap-bsw-logo.png",
+    "category": ["DEFI"],
+    "network": [56],
+    "link": "https://biswap.org/",
+    "isHot": true
+  },
+  {
+    "name": "Kybers",
+    "title": "Kyber Network functions as a decentralized Ethereum Network",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9444.png",
+    "category": ["DEFI"],
+    "network": [1, 56, 10, 137, 42161, 43114],
+    "link": "https://kyberswap.com/",
+    "isHot": true
+  },
+  {
+    "name": "Compound",
+    "title": "Lending and borrowing cryptocurrencies",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png",
+    "category": ["DEFI"],
+    "network": [1],
+    "link": "https://app.compound.finance",
+    "isHot": true
+  },
+  {
+    "name": "Aave",
+    "title": "Aave protocol is a decentralized, open-source",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png",
+    "category": ["DEFI"],
+    "network": [1],
+    "link": "https://app.aave.com/",
+    "isHot": true
+  },
+  {
+    "name": "Curve(ETH)",
+    "title": "AMM DEX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6538.png",
+    "category": ["DEFI"],
+    "network": [1, 10, 43114, 42161],
+    "link": "https://curve.fi/",
+    "isHot": true
+  }
+]
