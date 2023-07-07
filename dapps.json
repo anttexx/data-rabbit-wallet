@@ -1,14 +1,5 @@
 [
   {
-    "name": "LaunchPad",
-    "title": "Rabbit Launchpad",
-    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/23929.png",
-    "category": ["DEFI"],
-    "network": [56],
-    "link": "https://launchpad.therabbit.io/",
-    "isHot": true
-  },
-  {
     "name": "Pancake",
     "title": "AMM DEX",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png",
